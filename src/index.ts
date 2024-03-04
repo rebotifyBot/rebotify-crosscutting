@@ -1,4 +1,4 @@
-import { ErrorLogMessageOrigin } from '@/enums/ErrorLogMessageOrigin'
-import { IErrorLogMessage } from '@/interfaces/ErrorLogMessage'
+import { ErrorLogMessageOrigin } from './enums/ErrorLogMessageOrigin'
+import { IErrorLogMessage } from './interfaces/ErrorLogMessage'
 
 export { ErrorLogMessageOrigin, IErrorLogMessage }
