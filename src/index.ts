@@ -1,3 +1,1 @@
-export enum ErrorLogMessageType {
-  OAuthTokenAPI
-}
+import './enums/errorlogmessagetype'
