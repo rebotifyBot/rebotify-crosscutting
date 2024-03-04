@@ -3,7 +3,7 @@
 
   "compilerOptions": {
     "lib": ["es2020"],
-    "module": "CommonJS",
+    "module": "NodeNext",
     "target": "es2020",
     "strict": true,
     "esModuleInterop": true,
