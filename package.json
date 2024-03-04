@@ -8,7 +8,6 @@
     "index.d.ts",
     "index.js"
   ],
-  "type": "module",
   "scripts": {
     "build": "tsc",
     "prepare": "mv dist/* ."
