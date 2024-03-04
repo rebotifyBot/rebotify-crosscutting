@@ -9,8 +9,9 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "declaration": true
+    "declaration": true,
+    "outDir": "dist"
   },
 
-  "include": ["enums/*", "interfaces/*", "index.ts"]
+  "include": ["src/**/*"]
 }
