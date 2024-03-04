@@ -1,6 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"],
+    },
     "target": "es2020",
     "module": "NodeNext",
     "strict": true,
