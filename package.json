@@ -1,6 +1,6 @@
 {
   "name": "@rebotify/crosscutting",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "",
   "files": [
     "enums",
@@ -12,7 +12,7 @@
     "build": "tsc",
     "prepare": "mv dist/* ."
   },
-  "main": "dist/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rebotifyBot/rebotify-crosscutting.git"
