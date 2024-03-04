@@ -1,3 +1,4 @@
-import { ErrorLogMessageType } from './enums/errorlogmessagetype'
+import { ErrorLogMessageOrigin } from '@/enums/ErrorLogMessageOrigin'
+import { IErrorLogMessage } from '@/interfaces/ErrorLogMessage'
 
-export { ErrorLogMessageType }
+export { ErrorLogMessageOrigin, IErrorLogMessage }
