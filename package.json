@@ -1,12 +1,15 @@
 {
-  "name": "rebotify-crosscutting",
-  "version": "1.2.5",
+  "name": "@rebotify/crosscutting",
+  "version": "1.0.0",
   "description": "",
   "files": [
-    "src",
+    "enums",
+    "interfaces",
+    "index.ts",
     "README.md",
     "LICENSE"
   ],
+  "typings": "index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rebotifyBot/rebotify-crosscutting.git"
