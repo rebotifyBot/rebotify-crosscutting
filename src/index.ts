@@ -1,1 +1,3 @@
-import './enums/errorlogmessagetype'
+import { ErrorLogMessageType } from './enums/errorlogmessagetype'
+
+export { ErrorLogMessageType }
