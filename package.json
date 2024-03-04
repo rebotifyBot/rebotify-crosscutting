@@ -1,6 +1,6 @@
 {
   "name": "@rebotify/crosscutting",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "files": [
     "enums",
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/rebotifyBot/rebotify-crosscutting/issues"
   },
-  "homepage": "https://github.com/rebotifyBot/rebotify-crosscutting#readme",
-  "devDependencies": {
-    "typescript": "^2.4.0"
-  }
+  "homepage": "https://github.com/rebotifyBot/rebotify-crosscutting#readme"
 }
