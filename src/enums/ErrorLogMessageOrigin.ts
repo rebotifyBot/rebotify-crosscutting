@@ -1,3 +1,3 @@
-export declare enum ErrorLogMessageOrigin {
+export enum ErrorLogMessageOrigin {
   OAuthTokenAPI,
 }

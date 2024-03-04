@@ -1,6 +1,6 @@
 import { ErrorLogMessageOrigin } from '../enums/ErrorLogMessageOrigin'
 
-export declare interface IErrorLogMessage {
+export interface IErrorLogMessage {
   origin: ErrorLogMessageOrigin
   message: string
 }
