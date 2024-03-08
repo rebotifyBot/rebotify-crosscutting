@@ -1,5 +1,5 @@
 export enum BotOutputMessageType {
-  Message,
-  Join,
+  SendMessage,
+  JoinChannel,
   Other,
 }
