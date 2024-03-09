@@ -1,3 +1,4 @@
 export enum EventJobRequestType {
-  Default
+  Default,
+  TwitchRequestChannels
 }
