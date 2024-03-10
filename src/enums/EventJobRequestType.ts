@@ -1,4 +1,5 @@
 export enum EventJobRequestType {
   Default,
-  TwitchRequestChannels
+  TwitchRequestChannels,
+  GetAllConnectedChannelsMetaData,
 }
