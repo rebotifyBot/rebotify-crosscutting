@@ -2,7 +2,7 @@ import { EventOrigin } from '../enums/EventOrigin'
 import { TwitchChatBotEventType } from '../enums/eventTypes/twitchChatBot.eventType'
 import { TwitchEventBotEventType } from '../enums/eventTypes/twitchEventBot.eventType'
 
-type IEvent =
+export type IEvent =
   | {
       origin: EventOrigin.TwitchChatBot
       message: any
