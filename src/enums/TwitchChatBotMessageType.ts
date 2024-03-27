@@ -1,4 +1,4 @@
-export enum BotOutputMessageType {
+export enum TwitchChatBotMessageType {
   SendMessage,
   JoinChannel,
   Other,
